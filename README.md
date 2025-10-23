@@ -1,8 +1,35 @@
-# PhotoSorterCore
+<div align="center">
+  <img src="Docs/banner.png" alt="PhotoSorterCore Banner" width="100%">
+  
+  <h1>PhotoSorterCore</h1>
+  
+  <p>
+    <strong>A powerful Swift library for organizing, sorting, and managing photo and video collections on macOS</strong>
+  </p>
+  
+  <p>
+    <a href="#features">Features</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#quick-start">Quick Start</a> •
+    <a href="Docs/">Documentation</a>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Platform-macOS%2015.0+-blue.svg" alt="Platform">
+    <img src="https://img.shields.io/badge/Swift-6.0+-orange.svg" alt="Swift">
+    <img src="https://img.shields.io/badge/Xcode-16.0+-blue.svg" alt="Xcode">
+    <img src="https://img.shields.io/badge/SPM-compatible-brightgreen.svg" alt="SPM">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  </p>
+  
+  <p>
+    <a href="README-ru.md">Русская версия</a>
+  </p>
+</div>
 
-A powerful Swift library for organizing, sorting, and managing photo and video collections on macOS. PhotoSorterCore provides comprehensive functionality for metadata handling, date fixing, format conversion, and intelligent file organization.
+---
 
-[Русская версия](README-ru.md)
+PhotoSorterCore provides comprehensive functionality for metadata handling, date fixing, format conversion, and intelligent file organization.
 
 ## Features
 
