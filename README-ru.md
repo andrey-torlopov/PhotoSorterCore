@@ -230,11 +230,11 @@ swift test
 
 ## Лицензия
 
-[Ваша лицензия]
+PhotoSorterCore распространяется по лицензии MIT.
 
 ## Автор
 
-[Ваше имя/Организация]
+Andrey Torlopov — torlopov.mail@ya.ru
 
 ## Поддержка
 

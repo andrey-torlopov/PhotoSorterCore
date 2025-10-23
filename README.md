@@ -230,11 +230,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Your License Here]
+PhotoSorterCore is released under the MIT License.
 
 ## Author
 
-[Your Name/Organization]
+Andrey Torlopov — torlopov.mail@ya.ru
 
 ## Support
 
