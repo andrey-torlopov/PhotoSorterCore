@@ -273,3 +273,7 @@ Andrey Torlopov — torlopov.mail@ya.ru
 ## Support
 
 For bug reports and feature requests, please open an issue on GitHub.
+
+## ☕ Buy me a coffee
+
+If you find this project useful, you can [support my work on Boosty](https://boosty.to/andreytorlopov).
